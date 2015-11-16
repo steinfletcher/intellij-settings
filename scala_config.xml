@@ -1,0 +1,6 @@
+<application>
+  <component name="ScalaApplicationSettings">
+    <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
+    <option name="INTRODUCE_VARIABLE_IS_VAR" value="true" />
+  </component>
+</application>
