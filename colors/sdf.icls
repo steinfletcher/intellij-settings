@@ -19,5 +19,11 @@
         <option name="BACKGROUND" value="2b2b2b" />
       </value>
     </option>
+    <option name="Scala Keyword">
+      <value>
+        <option name="FOREGROUND" value="16c5cc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>
