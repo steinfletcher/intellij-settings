@@ -2,5 +2,6 @@
   <component name="ScalaApplicationSettings">
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
     <option name="INTRODUCE_VARIABLE_IS_VAR" value="true" />
+    <option name="ASK_USE_LATEST_PLUGIN_BUILDS" value="false" />
   </component>
 </application>
