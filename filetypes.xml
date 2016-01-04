@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="BUILD" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="fieldForm" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
