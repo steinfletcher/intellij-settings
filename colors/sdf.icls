@@ -8,6 +8,12 @@
         <option name="FOREGROUND" value="dfe1e1" />
       </value>
     </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="13aecc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9cc7cc" />
