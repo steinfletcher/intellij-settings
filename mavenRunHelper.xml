@@ -34,6 +34,9 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="-DCONFIG_DATA_FILE_PATH=src/test/resources/properties/local.properties -Dtest=uk.gov.ipt.iias.orchestra.integration.testsuite.OrchestraIntegrationTestSuite test" />
+            </Goal>
           </list>
         </option>
       </Goals>
