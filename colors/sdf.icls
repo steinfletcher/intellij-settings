@@ -3,6 +3,12 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c2c178" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dfe1e1" />
