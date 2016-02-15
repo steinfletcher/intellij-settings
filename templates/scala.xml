@@ -1,29 +1,20 @@
 <templateSet group="scala">
   <template name="g" value="Given(&quot;$VAR1$&quot;)$END$" description="given" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="w" value="When(&quot;$VAR1$&quot;)$END$" description="when" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="t" value="Then(&quot;$VAR1$&quot;)$END$" description="then" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="gwt" value="Given(&quot;$VAR1$&quot;)&#10;&#10;When(&quot;$VAR2$&quot;)&#10;&#10;Then(&quot;$VAR3$&quot;)$END$" description="given when then" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="SCALA" value="false" />
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
