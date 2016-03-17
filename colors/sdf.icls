@@ -9,9 +9,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="BOOKMARKS_ATTRIBUTES">
-      <value />
-    </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dfe1e1" />
@@ -33,9 +30,6 @@
         <option name="FOREGROUND" value="13b1cc" />
         <option name="BACKGROUND" value="2b2b2b" />
       </value>
-    </option>
-    <option name="LOG_EXPIRED_ENTRY">
-      <value />
     </option>
     <option name="Scala Keyword">
       <value>
